@@ -6,4 +6,6 @@ $identitas = new Identitas("John Doe", "Jl. Raya", 25, "Laki-laki", "08123456789
 
 $identitas->tampilkanIdentitas();
 
+
+
 ?>
